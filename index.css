@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.yusuf {
+    background-color: #ECE7E1;
+}
+.copyright{
+    writing-mode:vertical-rl;
+    margin-top: 70;
+}
+.bodi{
+    background-color: #ECE7E1;
+    background-size: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.fimg{
+    width: 80px;
+    height: 80px;
+    
+}
+.project{
+    display: flex;
+    margin: 10px;
+    color: white;
+    background-color: black;
+    height:fit-content;
+    width: fit-content; 
+}
+.divt{
+    margin: 10px;
+}
+.divb h4 {
+    margin-top: 0px;
+}
+li {
+    list-style: none;
+    font-size: 125px; 
+}
+#pp:hover {
+    list-style: none;
+    font-size: 100px;
+    font-style: italic;
+}
+#pd:hover {
+    list-style: none;
+    font-size: 100px;
+    font-style: italic;
+}
+#pc:hover {
+    list-style: none;
+    font-size: 100px;
+    font-style: italic;
+}
+#f:hover {
+    list-style: none;
+    font-size: 100px;
+    font-style: italic;
+}
+.doing h4{
+font-size: medium;
+}
+
+.doings{
+    padding: 400px 0px 90px 60px;
+    line-height: 30px;
+}
+
+.work{
+    margin-left: 600px;
+    position: absolute;
+}
+.p{
+margin-right: 10px;
+}
+.me{
+    height: 200px;
+    width: 200px;
+    margin: 100px 0px 0px 150px;
+    position: absolute;
+}
